@@ -1,3 +1,13 @@
+# Lab Solution
+
+[Link to Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/darcee.meilbeck.caron/viz/lab_tableau_17113774807790/CustomerDemographicsDashboard)
+
+
+![Dashboard Image](https://github.com/DarceeAnne/lab-tableau/raw/main/dashboard.png)
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Tableau
